@@ -24,4 +24,4 @@ This project is a React Native application using TypeScript and Expo for cross-p
 ## Presentation Video  
 Below is a video presentation about the project:  
 
-[![Project Presentation](https://youtu.be/4Zmm-4j0-FE.png)]((https://youtu.be/4Zmm-4j0-FE) "ST1045605_CHRISTOPHER_VAN_HATTUM_XHAW_POE_PRESENTATION")
+[![Project Presentation](https://youtu.be/4Zmm-4j0-FE.png)](https://youtu.be/4Zmm-4j0-FE)
