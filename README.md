@@ -20,3 +20,8 @@ This project is a React Native application using TypeScript and Expo for cross-p
 - **Framework**: React Native with Expo  
 - **Language**: TypeScript  
 - **Navigation**: React Navigation (Stack Navigator)  
+
+## Presentation Video  
+Below is a video presentation about the project:  
+
+[![Project Presentation]()](ST1045605_CHRISTOPHER_VAN_HATTUM_XHAW_POE_PRESENTATION.mp4 "ST1045605_CHRISTOPHER_VAN_HATTUM_XHAW_POE_PRESENTATION")
